@@ -4,6 +4,7 @@
 
 PROJECT_FILES=apq_provider-mysql.gpr
 GPR_FILES=apq_provider-mysql.gpr
+INCLUDE_FILES=src/*
 
 
 
