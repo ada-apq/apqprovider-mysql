@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# 
+# Local configuration file for KOW Lib
+
+
+
+project="apqprovider-mysql"
+
+check_project apq
+check_project apq-mysql
+check_project apqprovider
+
+set_configuration APQPROVIDERMYSQL_EXTERNALLY_BUILT "false"
